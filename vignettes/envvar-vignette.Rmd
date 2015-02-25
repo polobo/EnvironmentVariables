@@ -1,0 +1,16 @@
+---
+title: "EnvVar Vignette"
+author: "David G. Johnston"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+If this package, and its sole function `env_or_default` was difficult
+to use there would be more stuff here.  As it stands, please just
+read the documentation for that function.
+
+David G. Johnston

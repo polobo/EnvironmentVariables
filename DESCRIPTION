@@ -1,0 +1,12 @@
+Package: envvar
+Type: Package
+Title: Envrionment Variables Helper Functions
+Version: 0.1.0
+Date: 2015-02-24
+Author: David G. Johnston
+Maintainer: David G. Johnston <polobo@yahoo.com>
+Description: Provides functions to semantically manipulate environment variables.
+License: Unlimited
+Suggests: knitr,
+    testthat
+VignetteBuilder: knitr
